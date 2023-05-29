@@ -1,0 +1,12 @@
+../Core/Src/main.c:66:6:Mes2Usart1	16	static
+../Core/Src/main.c:74:6:Mes2Usart1_crlf	16	static
+../Core/Src/main.c:80:6:crlf2usart1	8	static
+../Core/Src/main.c:84:6:USART1_SendChar	16	static
+../Core/Src/main.c:98:5:main	8	static
+../Core/Src/main.c:143:6:SystemClock_Config	72	static
+../Core/Src/main.c:183:13:MX_USART1_UART_Init	8	static
+../Core/Src/main.c:216:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:243:6:EXTI0_IRQHandler	8	static
+../Core/Src/main.c:248:6:EXTI1_IRQHandler	8	static
+../Core/Src/main.c:253:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/main.c:283:6:Error_Handler	4	static,ignoring_inline_asm

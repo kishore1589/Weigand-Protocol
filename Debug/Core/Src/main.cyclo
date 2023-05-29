@@ -1,0 +1,12 @@
+main.c:66:6:Mes2Usart1	2
+main.c:74:6:Mes2Usart1_crlf	1
+main.c:80:6:crlf2usart1	1
+main.c:84:6:USART1_SendChar	2
+main.c:98:5:main	1
+main.c:143:6:SystemClock_Config	3
+main.c:183:13:MX_USART1_UART_Init	2
+main.c:216:13:MX_GPIO_Init	1
+main.c:243:6:EXTI0_IRQHandler	1
+main.c:248:6:EXTI1_IRQHandler	1
+main.c:253:6:HAL_GPIO_EXTI_Callback	4
+main.c:283:6:Error_Handler	1
